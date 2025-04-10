@@ -104,7 +104,6 @@ export const App: React.FC = () => {
             Reset
           </button>
         ) : null}
-        ;
       </div>
 
       <ul>
